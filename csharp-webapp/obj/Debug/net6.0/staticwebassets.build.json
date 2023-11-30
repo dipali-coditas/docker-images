@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "L7rM91VaCo0DF2qMDln35UdJ5tj3Ylk6r1svbVUjYb8=",
+  "Source": "csharp-webapp",
+  "BasePath": "_content/csharp-webapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "csharp-webapp\\wwwroot",
+      "Source": "csharp-webapp",
+      "ContentRoot": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\wwwroot\\",
+      "BasePath": "_content/csharp-webapp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\wwwroot\\login.html",
+      "SourceId": "csharp-webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\wwwroot\\",
+      "BasePath": "_content/csharp-webapp",
+      "RelativePath": "login.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\wwwroot\\register.html",
+      "SourceId": "csharp-webapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\wwwroot\\",
+      "BasePath": "_content/csharp-webapp",
+      "RelativePath": "register.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\register.html"
+    }
+  ]
+}
