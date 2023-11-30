@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\csharp-webapp.csproj",
+      "projectUniqueName": "C:\\Users\\Coditas\\Desktop\\Docker image task\\docker-images\\csharp-webapp\\csharp-webapp.csproj",
       "projectName": "csharp-webapp",
-      "projectPath": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\csharp-webapp.csproj",
+      "projectPath": "C:\\Users\\Coditas\\Desktop\\Docker image task\\docker-images\\csharp-webapp\\csharp-webapp.csproj",
       "packagesPath": "C:\\Users\\Coditas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\obj\\",
+      "outputPath": "C:\\Users\\Coditas\\Desktop\\Docker image task\\docker-images\\csharp-webapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Coditas\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkpBucSntizt/EuXKvowHicS/YvP+PQtyeec3CceMzm47AD+3Ry6AZFLc2nOdkpeucJcGTeNxVjO+M1wxGbuEw==",
+  "dgSpecHash": "RgpjK5mLm/TnRcCzmPsmc4PkRkLvDEA22DZ8V9QvsHAiVJY60mbdcZ27dAidSrrOLhy013FMj1+xnuD9FBrWAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Coditas\\Desktop\\csharp-webapp\\csharp-webapp.csproj",
+  "projectFilePath": "C:\\Users\\Coditas\\Desktop\\Docker image task\\docker-images\\csharp-webapp\\csharp-webapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
     "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
